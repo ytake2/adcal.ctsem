@@ -1064,11 +1064,15 @@ tipred_TI3_on_manifestmeans_Y2 = (((hypermeans[13] + tipredeffect[2,3]) * 10) - 
       }
 ```
 
+
+
 # 実行環境
 
-```{r}
+```{r, echo=T}
 sessionInfo()
 ```
+
+
 
 
 

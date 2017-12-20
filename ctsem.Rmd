@@ -27,7 +27,7 @@ opts_knit$set(width=75)
 
 # はじめに
 
-- [Stan Advent Calender 2017](https://qiita.com/advent-calendar/2017/stan)5日目の記事です。
+- [Stan Advent Calender 2017](https://qiita.com/advent-calendar/2017/stan)20日目の記事です。
 - 構造方程式モデリングを使って, 時系列データを扱うことをD-SEM (Dynamic SEM)と呼びます。
 - ここでは、D-SEMを使って階層ベイズモデルが実行可能な[ctsem](https://github.com/cdriveraus/ctsem)を紹介します。
 
